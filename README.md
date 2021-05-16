@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AimanAli1997 i am doing  BSc. in software engineering
-- 👀 I’m interested in solution architect jobs cause my aim to build my career in this software engineering related field
+- 👀 I’m interested in persuing my career as Business Analyst or UI/UX designing jobs cause my aim to build my career in this software engineering related field
 - 🌱 I’m currently learning BSc. in software engineering and in 8th semester which is the last semester
 - 💞️ I’m looking for a job.
 - 📫 How to reach me aymenalee.aa@gmail.com
@@ -18,6 +18,8 @@ Skills:
 5)Moderate Graphic Designing (Adobe Photoshop, Adobe Illustrator)
 
 6)MSWord, Power Point
+
+7) Good at Black box, grey box, whte box, interface and integration testing
 
 
 <!---
